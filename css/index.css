@@ -152,6 +152,7 @@ nav a {
   border: 1px solid gray;
   align-items: center;
   padding-bottom: 80px;
+  margin-bottom: 60px;
 }
 .whyHire {
   display: flex;
@@ -161,6 +162,7 @@ nav a {
 .whyHire h2 {
   font-size: 3rem;
   padding-bottom: 20px;
+  font-weight: bold;
 }
 .whyHire p {
   font-size: 2rem;
@@ -170,4 +172,28 @@ h1 {
   margin-bottom: 30px;
   font-size: 4rem;
   border-bottom: 1px solid gray;
+  font-weight: bold;
+}
+h3 {
+  font-size: 2rem;
+  font-weight: bold;
+}
+li {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+.skills {
+  border: 1px solid black;
+  margin-bottom: 90px;
+}
+.skills2 {
+  padding-top: 30px;
+}
+.hobbies {
+  border: 1px solid green;
+  margin-bottom: 30px;
+}
+.hobbies2 {
+  padding-top: 30px;
+  border: 1px solid red;
 }
